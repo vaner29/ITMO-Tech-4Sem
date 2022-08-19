@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSwithFarsh", "CSwithFarsh\CSwithFarsh.csproj", "{2BA8C341-481C-4248-902F-4225F26A71A6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FarshLibrary", "FarshLibrary\FarshLibrary.fsproj", "{C83F2058-D847-4AA1-AA32-B1C655EA1901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA8C341-481C-4248-902F-4225F26A71A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA8C341-481C-4248-902F-4225F26A71A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA8C341-481C-4248-902F-4225F26A71A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA8C341-481C-4248-902F-4225F26A71A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83F2058-D847-4AA1-AA32-B1C655EA1901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83F2058-D847-4AA1-AA32-B1C655EA1901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83F2058-D847-4AA1-AA32-B1C655EA1901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83F2058-D847-4AA1-AA32-B1C655EA1901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,49 @@
+{
+  "$type": "GeneticAlgo.Shared.Tools.RunConfiguration, GeneticAlgo.Shared",
+  "Obstacles": {
+    "$type": "System.Collections.Generic.List`1[[GeneticAlgo.Shared.Models.BarrierCircle, GeneticAlgo.Shared]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "GeneticAlgo.Shared.Models.BarrierCircle, GeneticAlgo.Shared",
+        "Center": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.73218834,
+          "Y": 0.95921105
+        },
+        "Radius": 22.0
+      },
+      {
+        "$type": "GeneticAlgo.Shared.Models.BarrierCircle, GeneticAlgo.Shared",
+        "Center": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.9211786,
+          "Y": 0.310012
+        },
+        "Radius": 22.0
+      },
+      {
+        "$type": "GeneticAlgo.Shared.Models.BarrierCircle, GeneticAlgo.Shared",
+        "Center": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.75580144,
+          "Y": 0.702546
+        },
+        "Radius": 21.0
+      },
+      {
+        "$type": "GeneticAlgo.Shared.Models.BarrierCircle, GeneticAlgo.Shared",
+        "Center": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.95513463,
+          "Y": 1.3919896
+        },
+        "Radius": 23.0
+      }
+    ]
+  },
+  "TimeDelay": 10,
+  "DotAmount": 500,
+  "IterationAmount": 500,
+  "FMax": 0.001,
+  "MaxGenerations": 50
+}
