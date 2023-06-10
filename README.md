@@ -1,5 +1,5 @@
 # ITMO-Tech-4Sem
-My labs and stuff for the 4th semester of progra,,ing
+My labs and stuff for the 4th semester of programming
 
 ## Lab 1
 A certain kind of a big Hello World project with a lot of interoping between languages (C++ libraries in C#, Scala libraries in Java etc.)
