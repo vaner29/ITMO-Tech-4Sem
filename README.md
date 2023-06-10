@@ -8,7 +8,7 @@ A certain kind of a big Hello World project with a lot of interoping between lan
 A basic C# client generator for a Java server making a use of RoslynAPI
 
 ## Lab 3
-Cusom codefixer that can be expanded and integrated into your VScode or whatnot, based on RoslynAPI
+Custom codefixer that can be expanded and integrated into your VScode or whatnot, based on RoslynAPI
 
 ## Lab 4
 A simple genetic algorithm, tested with time and memory metrics and then fixed (kind of)
